@@ -33,10 +33,6 @@
     width: 100%;
     height: 25%;
   }
-
-  .imgDetails {
-    display: none;
-  }
   
   @media screen and (max-width: 800px) {
     .gridColumn {
